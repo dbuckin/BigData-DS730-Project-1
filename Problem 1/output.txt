@@ -1,0 +1,72 @@
+1,Finland:12664
+1,France:12490
+1,Portugal:12356
+1,United Kingdom:15311
+2,Belgium:12362
+2,Cyprus:12359
+2,EIRE:14156
+2,Japan:12753
+2,United Kingdom:14680
+3,Australia:12415
+3,Cyprus:12370
+3,Germany:12520
+3,Netherlands:12775
+3,United Kingdom:14740
+4,Belgium:12362
+4,Brazil:12769
+4,France:12681
+4,Germany:12621
+4,Netherlands:14646
+4,United Kingdom:15039
+5,Australia:12431
+5,EIRE:14911
+5,France:12656
+5,Germany:12649
+5,Spain:12540
+5,United Kingdom:13694
+6,EIRE:14911
+6,European Community:15108
+6,France:12721
+6,Italy:12584
+6,Poland:12816
+6,United Kingdom:14040
+7,Australia:12415
+7,EIRE:14911
+7,France:12598
+7,Germany:12472
+7,Israel:12653
+7,Portugal:12766
+7,Singapore:12744
+7,United Kingdom:15854
+8,EIRE:14911
+8,France:12683
+8,Germany:12633
+8,Netherlands:14646
+8,United Kingdom:16353
+9,Australia:12388
+9,Denmark:12372
+9,EIRE:14911
+9,France:12437
+9,Germany:12701
+9,Netherlands:14646
+9,United Kingdom:18102
+10,Australia:12431
+10,EIRE:14911
+10,France:12683
+10,Germany:12626
+10,Iceland:12347
+10,Netherlands:14646
+10,Portugal:12772
+10,Sweden:12483
+10,Switzerland:12451
+10,United Kingdom:15838
+11,EIRE:14911
+11,France:12714
+11,Germany:12518
+11,Netherlands:14646
+11,Switzerland:12384
+11,United Kingdom:12931
+12,EIRE:14911
+12,France:12441
+12,Germany:12572
+12,United Kingdom:13089
